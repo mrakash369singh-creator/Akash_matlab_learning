@@ -1,0 +1,1 @@
+m  = randi(6,10)    c% creates a 6X10 random matrix
